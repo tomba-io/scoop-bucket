@@ -1,26 +1,26 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/tomba-io/tomba/releases/download/v1.1.2/tomba_windows_386.zip",
+            "url": "https://github.com/tomba-io/tomba/releases/download/v1.1.3/tomba_windows_386.zip",
             "bin": [
                 "tomba.exe"
             ],
-            "hash": "90b293a431cbcdd42d702557f8409a79dd62788208621d06f3c455ac9628d47d"
+            "hash": "ec30e272243be6d61bfb161dd235942eac688f44de06e7de6905b1853adfa0be"
         },
         "64bit": {
-            "url": "https://github.com/tomba-io/tomba/releases/download/v1.1.2/tomba_windows_amd64.zip",
+            "url": "https://github.com/tomba-io/tomba/releases/download/v1.1.3/tomba_windows_amd64.zip",
             "bin": [
                 "tomba.exe"
             ],
-            "hash": "5cb7d4780c733307e0f573379a40b20ff8b462ccf393ba4cc7635de7fa024b1a"
+            "hash": "dd796385d882baacc395b97ef5779f6c8123ad8f80ad93d4e2dd596a4fbc23bd"
         },
         "arm64": {
-            "url": "https://github.com/tomba-io/tomba/releases/download/v1.1.2/tomba_windows_arm64.zip",
+            "url": "https://github.com/tomba-io/tomba/releases/download/v1.1.3/tomba_windows_arm64.zip",
             "bin": [
                 "tomba.exe"
             ],
-            "hash": "66d423e726783665b409c1c072d02d8411363e7ae51efb0f50bb688d5f8dec11"
+            "hash": "b1b7a1451cba0fcb2fccab276ae8c47a1e3b4e8c74ddccaf2131fb8d86eb4db1"
         }
     },
     "homepage": "https://tomba.io",
